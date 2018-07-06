@@ -1,0 +1,759 @@
+﻿  2Up.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\2up.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\2up.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\2up.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\2up.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\2up.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\2up.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  400Coin.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\400coin.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\400coin.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\400coin.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\400coin.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\400coin.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\400coin.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  600Coin.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\600coin.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\600coin.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\600coin.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\600coin.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\600coin.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\600coin.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Axe.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\axe.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\axe.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Bat.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bat.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bat.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bat.cpp(10): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\bat.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bat.cpp(35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bat.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Blood.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Board.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  BoardItem.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  BossMedusa.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bossmedusa.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bossmedusa.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bossmedusa.cpp(22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bossmedusa.cpp(28): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bossmedusa.cpp(29): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bossmedusa.cpp(46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bossmedusa.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bossmedusa.cpp(55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bossmedusa.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bossmedusa.cpp(101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bossmedusa.cpp(102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bottle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\bottle.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bottle.cpp(55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bottle.cpp(56): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bottle.cpp(57): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bottle.cpp(61): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bottle.cpp(62): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  Brick.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Brick1.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick1.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick1.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick1.cpp(32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick1.cpp(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Brick2.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick2.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick2.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick2.cpp(36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick2.cpp(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Brick3.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick3.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick3.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick3.cpp(32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick3.cpp(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Brick9.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick9.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick9.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick9.cpp(25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick9.cpp(26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\brick9.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bumeran.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\bumeran.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bumeran.cpp(22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\bumeran.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  CBatBoss.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(4): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(29): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(108): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(125): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(127): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(132): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(134): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(140): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(149): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(153): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(157): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(158): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CStair.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cstair.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\cstair.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Distinct.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(269): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(327): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(328): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(331): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(332): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(335): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(336): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(339): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(340): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(343): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(344): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(348): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(349): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(357): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(358): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(403): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(404): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(424): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(425): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(435): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(437): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(439): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(441): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(443): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(446): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(449): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(452): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(455): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(458): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(461): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(464): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(467): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(470): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(473): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(476): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(479): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(482): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(485): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(488): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(491): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(494): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(501): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(503): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(505): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(507): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(509): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(512): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(515): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(518): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(521): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(524): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(527): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(530): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(533): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(536): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(539): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(542): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(545): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(548): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(551): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(893): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(897): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(1018): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Dog.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\dog.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\dog.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\dog.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\dog.cpp(82): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\dog.cpp(91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\dog.cpp(92): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\dog.cpp(93): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  Generating Code...
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(497): warning C4715: 'CDistinct::getObjX': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(585): warning C4715: 'CDistinct::getObjH': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(554): warning C4715: 'CDistinct::getObjY': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(608): warning C4715: 'CDistinct::getObjW': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(679): warning C4715: 'CDistinct::getIsDie': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(866): warning C4715: 'CDistinct::getIsGoing': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(874): warning C4715: 'CDistinct::getIsJumping': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(885): warning C4715: 'CDistinct::getIsFalling': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(911): warning C4715: 'CDistinct::getTimeFall': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(967): warning C4715: 'CDistinct::getWater': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(957): warning C4715: 'CDistinct::gettrend': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(1011): warning C4715: 'CDistinct::getBreakBrick': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(1030): warning C4715: 'CDistinct::getMax': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(1039): warning C4715: 'CDistinct::getMin': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(1053): warning C4715: 'CDistinct::getVx': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(1087): warning C4715: 'CDistinct::CreateWeapon': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(1129): warning C4715: 'CDistinct::GetHurt': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\distinct.cpp(1141): warning C4715: 'CDistinct::getHealth': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(145): warning C4715: 'CBatBoss::FindX': not all control paths return a value
+c:\users\hangt\onedrive\desktop\cuoicung\cbatboss.cpp(154): warning C4715: 'CBatBoss::FindY': not all control paths return a value
+  Compiling...
+  Door.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\door.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\door.cpp(7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\door.cpp(41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\door.cpp(45): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\door.cpp(49): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\door.cpp(52): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\door.cpp(57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\door.cpp(58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DragonHead.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\dragonhead.cpp(7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\dragonhead.cpp(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\dragonhead.cpp(71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\dragonhead.cpp(74): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\dragonhead.cpp(75): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  Exit.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  FireBall.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\fireball.cpp(19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\fireball.cpp(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Fish.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\fish.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\fish.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\fish.cpp(47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\fish.cpp(48): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\fish.cpp(49): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\fish.cpp(95): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  IBoomerang.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iboomerang.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iboomerang.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iboomerang.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\iboomerang.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iboomerang.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iboomerang.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iboomerang.cpp(37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  IFire.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifire.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifire.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifire.cpp(13): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\ifire.cpp(23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifire.cpp(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifire.cpp(29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifire.cpp(30): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifire.cpp(33): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifire.cpp(37): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifire.cpp(38): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  IFood.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifood.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifood.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifood.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ifood.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GAudio.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  GCamera.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\gcamera.cpp(5): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gcamera.cpp(7): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gcamera.cpp(10): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gcamera.cpp(12): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gcamera.cpp(28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gcamera.cpp(38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gcamera.cpp(47): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gcamera.cpp(49): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gcamera.cpp(74): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gcamera.cpp(75): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  dsutil.cpp
+  Ghost.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ghost.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ghost.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ghost.cpp(22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ghost.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ghost.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ghost.cpp(45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ghost.cpp(46): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ghost.cpp(47): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  IGoldPotion.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\igoldpotion.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\igoldpotion.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\igoldpotion.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\igoldpotion.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\igoldpotion.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\igoldpotion.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  IHolyCross.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iholycross.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iholycross.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iholycross.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\iholycross.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iholycross.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iholycross.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iholycross.cpp(36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  IHolyWater.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iholywater.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iholywater.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iholywater.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\iholywater.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iholywater.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iholywater.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iholywater.cpp(34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  IAxe.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iaxe.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iaxe.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iaxe.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\iaxe.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iaxe.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iaxe.cpp(26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iaxe.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  IDagger.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\idagger.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\idagger.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\idagger.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\idagger.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\idagger.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\idagger.cpp(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\idagger.cpp(36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  IOrb.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iorb.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iorb.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iorb.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iorb.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iorb.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  IShot.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ishot.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ishot.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ishot.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\ishot.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ishot.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ishot.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  IStopWatch.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\istopwatch.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\istopwatch.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\istopwatch.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\istopwatch.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\istopwatch.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\istopwatch.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Items.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\isheart.h(10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(484): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(490): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(505): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(512): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(618): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(622): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(626): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(630): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(634): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(638): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(642): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(646): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(650): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(654): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(658): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(662): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(680): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(684): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(688): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(692): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(704): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\items.cpp(710): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  IWhip.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iwhip.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iwhip.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iwhip.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\iwhip.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iwhip.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iwhip.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\iwhip.cpp(36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LCandle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\lcandle.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\lcandle.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ILHeart.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ilheart.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ilheart.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ilheart.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\ilheart.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ilheart.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\ilheart.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Map.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  MCandle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\mcandle.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\mcandle.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Medusa.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\medusa.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\medusa.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\medusa.cpp(10): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\medusa.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\medusa.cpp(33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\medusa.cpp(34): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\medusa.cpp(35): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\medusa.cpp(43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\medusa.cpp(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Node.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Object.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\object.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\object.cpp(22): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\object.cpp(37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\object.cpp(38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Play.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  QuadTree.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\isheart.h(10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SceneMain.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\isheart.h(10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(261): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(266): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(267): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(291): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(299): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(308): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(316): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(317): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(338): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(339): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(352): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(353): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(364): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(373): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(376): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(402): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(405): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(416): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(419): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(430): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(433): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(444): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(447): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(458): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(461): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(592): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(646): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(654): warning C4018: '<': signed/unsigned mismatch
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(667): warning C4018: '<': signed/unsigned mismatch
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(674): warning C4018: '<': signed/unsigned mismatch
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(724): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(732): warning C4018: '<': signed/unsigned mismatch
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(741): warning C4018: '<': signed/unsigned mismatch
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(746): warning C4018: '<': signed/unsigned mismatch
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(786): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(789): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(832): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(843): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(899): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(921): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(936): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(938): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(975): warning C4018: '<': signed/unsigned mismatch
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(984): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1005): warning C4018: '<': signed/unsigned mismatch
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1013): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1098): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1140): warning C4018: '<': signed/unsigned mismatch
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1151): warning C4018: '<': signed/unsigned mismatch
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1503): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1504): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1510): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1511): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1522): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1523): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1530): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1531): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1661): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1664): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1670): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\scenemain.cpp(1673): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  Game.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Global.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\isheart.h(10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GSprite.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\gsprite.cpp(112): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gsprite.cpp(113): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gsprite.cpp(129): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gsprite.cpp(148): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gsprite.cpp(183): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gsprite.cpp(184): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gsprite.cpp(212): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\gsprite.cpp(213): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GTexture.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\gtexture.cpp(51): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+  ISHeart.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\isheart.h(10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\isheart.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\isheart.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\isheart.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\isheart.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\isheart.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\isheart.cpp(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Score.cpp
+  Simon.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(8): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(9): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(45): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(46): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(49): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(50): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(202): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(218): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(219): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(291): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\simon.cpp(292): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+c:\users\hangt\onedrive\desktop\cuoicung\game.cpp(58): warning C4715: 'CGame::InitWindow': not all control paths return a value
+  Compiling...
+  SIronMan.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\sironman.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\sironman.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\sironman.cpp(13): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\sironman.cpp(24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\sironman.cpp(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\sironman.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\sironman.cpp(50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\sironman.cpp(51): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\sironman.cpp(52): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  SnakeWeapon.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\snakeweapon.cpp(26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\snakeweapon.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\snakeweapon.cpp(39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\snakeweapon.cpp(40): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\snakeweapon.cpp(41): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  Soldier.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\soldier.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\soldier.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\soldier.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\soldier.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SoundManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Sweet_AABB.cpp
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+  Sword.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\sword.cpp(20): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\sword.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\sword.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Text.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Trap.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(22): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(26): warning C4244: 'initializing': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(27): warning C4244: 'initializing': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(31): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(34): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(81): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\trap.cpp(100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Utils.cpp
+  Vir_20.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\vir_20.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\vir_20.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Water.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\water.cpp(25): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\water.cpp(26): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\water.cpp(27): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\hangt\onedrive\desktop\cuoicung\water.cpp(48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\water.cpp(49): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  WaterDie.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\waterdie.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\waterdie.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Weapon.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\weapon.cpp(28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\weapon.cpp(29): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\weapon.cpp(30): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\weapon.cpp(45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\weapon.cpp(46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Whip.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\whip.cpp(22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\whip.cpp(23): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\whip.cpp(24): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\whip.cpp(72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\whip.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\whip.cpp(77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\whip.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  White.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hangt\onedrive\desktop\cuoicung\sweet_aabb.h(20): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\hangt\onedrive\desktop\cuoicung\object.h(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\white.cpp(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\white.cpp(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\white.cpp(24): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\hangt\onedrive\desktop\cuoicung\white.cpp(25): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  Generating Code...
+  CastleVania.vcxproj -> C:\Users\hangt\OneDrive\Desktop\cuoicung\Debug\CastleVania.exe
